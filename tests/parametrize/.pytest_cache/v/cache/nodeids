@@ -1,0 +1,5 @@
+[
+  "test_mathlib1.py::test_calc_sqaure[5-25]",
+  "test_mathlib1.py::test_calc_sqaure[9-81]",
+  "test_mathlib1.py::test_calc_sqaure[10-100]"
+]

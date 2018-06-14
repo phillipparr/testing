@@ -1,6 +1,4 @@
 [
-  "tests/test_mathlib.py::test_windows_1",
-  "tests/test_mathlib.py::test_windows_2",
-  "tests/test_mathlib.py::test_mac_1",
-  "tests/test_mathlib.py::test_mac_2"
+  "tests/test_mydb.py::test_johns_id",
+  "tests/test_mydb.py::test_toms_id"
 ]

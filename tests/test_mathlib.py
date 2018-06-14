@@ -9,18 +9,18 @@ import pytest
 #     result = mathlib.calc_multiply(10,3)
 #     assert result == 30
 
-@pytest.mark.windows
-def test_windows_1():
-    assert True
-
-@pytest.mark.windows
-def test_windows_2():
-    assert True
-
-@pytest.mark.mac
-def test_mac_1():
-    assert True
-
-@pytest.mark.mac
-def test_mac_2():
-    assert True
+# @pytest.mark.windows
+# def test_windows_1():
+#     assert True
+#
+# @pytest.mark.windows
+# def test_windows_2():
+#     assert True
+#
+# @pytest.mark.mac
+# def test_mac_1():
+#     assert True
+#
+# @pytest.mark.mac
+# def test_mac_2():
+#     assert True

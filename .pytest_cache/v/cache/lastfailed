@@ -1,1 +1,3 @@
-{}
+{
+  "tests/parametrize/test_mathlib.py": true
+}
